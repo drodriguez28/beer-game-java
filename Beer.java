@@ -26,7 +26,7 @@ public class Beer {
         if (age >= 21) {
             System.out.println("Ten una chela");
         } else {
-            System.out.println("Ni madres wei!");
+            System.out.println("Ni madres wei, vete ala ...!");
         }
     }
 }
