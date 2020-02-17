@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Beer {
     public static void instructions() {
         // the instructions of the game 
-        System.out.println("Bienvenido a Deivid's Cantina");
+        System.out.println("Bienvenido a Elver Galarga's Cantina");
         System.out.println("Si quieres una chela .. you gotta tell me your age wei");
         System.out.println("Enter Age");
 
@@ -24,7 +24,7 @@ public class Beer {
 
         // the logic of the game .. if your under 21, you can't get a beer, but if your over 21 you can 
         if (age >= 21) {
-            System.out.println("Ten una chela");
+            System.out.println("Camara vato ten una chela");
         } else {
             System.out.println("Ni madres wei, vete ala ...!");
         }
